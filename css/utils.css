@@ -1,0 +1,21 @@
+:root {
+    --main-bg-color:#6f6beb;
+  }
+  
+.flex-all-centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    color: rgb(255, 255, 255);
+    background-color: var(--main-bg-color);
+    cursor: pointer;
+}
+/* .my1{
+    margin: 31px 0;
+} */
+
+.text-centre{
+    text-align: center;
+}
